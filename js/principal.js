@@ -33,7 +33,7 @@ for(var i = 0; i < pacientes.length; i++)
 	tdImc.textContent = "Altura Inválida !";
 	paciente.classList.add("paciente-invalido");
 	}
-
+	
 	if(alturaIsValida && pesoIsValido)
 	{
 	var imc = peso / (altura * altura); // imc = 100 / (2.0 * 2.0) = 100 / 4 => 25
