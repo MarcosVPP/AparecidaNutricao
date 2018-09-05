@@ -67,7 +67,7 @@ td, th
 th
 {
 	font-weight: bold;
-	background-color: #237085;
+	background-color: #239985;
 }
 label
 {
@@ -135,5 +135,5 @@ button[disabled=disabled], button:disabled
 }
 .paciente-invalido
 {
-	background-color: lightcoral;
+	background-color: rgb(255, 187, 0); // ou #FFBB00
 }
