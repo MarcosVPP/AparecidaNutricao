@@ -38,6 +38,3 @@ for(var i = 0; i < pacientes.lenght; i++)
 	tdImc.textContent = imc;
 	}
 }
-
-
-
